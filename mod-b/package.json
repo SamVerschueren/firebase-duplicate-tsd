@@ -1,0 +1,17 @@
+{
+	"name": "mod-b",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"build": "tsc"
+	},
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"typescript": "^2.6.2"
+	},
+	"dependencies": {
+		"firebase": "^4.9.0"
+	}
+}

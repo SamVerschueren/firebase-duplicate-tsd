@@ -1,0 +1,19 @@
+{
+	"name": "mod-a",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"build": "tsc"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"firebase": "^4.9.0",
+		"mod-b": "link:../mod-b"
+	},
+	"devDependencies": {
+		"@types/node": "^9.4.0",
+		"typescript": "^2.6.2"
+	}
+}
